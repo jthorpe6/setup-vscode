@@ -1,0 +1,134 @@
+{
+    "workbench.colorTheme": "Nord",
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "go.toolsManagement.autoUpdate": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "workbench.layoutControl.enabled": false,
+    "git.confirmSync": false,
+    "editor.wordWrap": "on",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
+    "doctestbtn.dtPythonPath": "python3",
+    "doctestbtn.buttonColor.xtraFancy": false,
+    "doctestbtn.buttonColor.fancy": false,
+    "python.analysis.autoImportCompletions": true,
+    "editor.formatOnSave": true,
+    "python.linting.enabled": false,
+    "python.formatting.provider": "black",
+    "python.linting.lintOnSave": false,
+    "gitlens.showWelcomeOnInstall": false,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+    "gitlens.currentLine.pullRequests.enabled": false,
+    "lldb.library": "/Applications/Xcode.app/Contents/SharedFrameworks/LLDB.framework/Versions/A/LLDB",
+    "debug.console.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.codeLensFontSize": 12,
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontSize": 14,
+    "notebook.outputFontFamily": "JetBrains Mono",
+    "notebook.outputFontSize": 14,
+    "editor.fontSize": 14,
+    "joplin.token": "b2e8a37381df46b0bb638e4899e7952e97584ac4049bfdd0a96f11142c758ba51e2be44da154e8b38e0355e1f87b6de4784d1a6e97a7ddb3105678a4a249398b",
+    "cSpell.enableFiletypes": [
+        "!c",
+        "!cpp",
+        "!css",
+        "!go",
+        "!python"
+    ],
+    "bashIde.explainshellEndpoint": "https://explainshell.com",
+    "bashIde.highlightParsingErrors": true,
+    "gitlens.advanced.messages": {
+        "suppressCreatePullRequestPrompt": true
+    },
+    "git.enableSmartCommit": true,
+    "cSpell.userWords": [
+        "codesign",
+        "gopls",
+        "Nord",
+        "syzkaller"
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "nano",
+        "tmux",
+        "emacs"
+    ],
+    "terminal.integrated.shellIntegration.history": 1e+22,
+    "terminal.integrated.scrollback": 100000000000000000,
+    "terminal.integrated.persistentSessionScrollback": 0,
+    "gopls": {
+        "ui.semanticTokens": false
+    },
+    "cSpell.ignoreWords": [
+        "doctestbtn",
+        "explainshell",
+        "scrollback",
+        "xtra"
+    ],
+    // "better-comments.tags": [
+    //     {
+    //         "tag": "todo",
+    //         "color": "#A8C023",
+    //         "strikethrough": false,
+    //         "underline": false,
+    //         "backgroundColor": "transparent",
+    //         "bold": false,
+    //         "italic": true
+    //     },
+    //     {
+    //         "tag": "info",
+    //         "color": "#3498DB",
+    //         "strikethrough": false,
+    //         "underline": false,
+    //         "backgroundColor": "transparent",
+    //         "bold": false,
+    //         "italic": true
+    //     }
+    // ],
+    "markdownlint.config": {},
+    "gitlens.currentLine.enabled": false,
+    "gitlens.views.branches.branches.layout": "list",
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywords": [
+        {
+            "text": "HACK:",
+            "color": "white",
+            "backgroundColor": "none",
+            "isWholeLine": false,
+        },
+        {
+            "text": "INFO:",
+            "color": "#3498DB",
+            "backgroundColor": "none",
+            "isWholeLine": true,
+        },
+        {
+            "text": "TODO:",
+            "color": "red",
+            "backgroundColor": "none",
+            "isWholeLine": true,
+            // "border": "1px solid red",
+            // "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+            // "backgroundColor": "rgba(0,0,0,.2)",
+            //other styling properties goes here ... 
+        }
+    ],
+    "todohighlight.maxFilesForSearch": 5120,
+    "todohighlight.toggleURI": false
+}
