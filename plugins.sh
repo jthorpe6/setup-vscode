@@ -2,13 +2,11 @@
 
 declare -a plugins=(
     "alexcvzz.vscode-sqlite"
-    "AndreyArtemiev.syzlang-extension"
     "arcticicestudio.nord-visual-studio-code"
     "DavidAnson.vscode-markdownlint"
     "DotJoshJohnson.xml"
     "eamodio.gitlens"
     "golang.go"
-    "Layle.idacode"
     "mads-hartmann.bash-ide-vscode"
     "ms-azuretools.vscode-docker"
     "ms-python.black-formatter"
