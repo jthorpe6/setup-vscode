@@ -35,7 +35,6 @@
     "notebook.outputFontFamily": "JetBrains Mono",
     "notebook.outputFontSize": 14,
     "editor.fontSize": 14,
-    "joplin.token": "b2e8a37381df46b0bb638e4899e7952e97584ac4049bfdd0a96f11142c758ba51e2be44da154e8b38e0355e1f87b6de4784d1a6e97a7ddb3105678a4a249398b",
     "cSpell.enableFiletypes": [
         "!c",
         "!cpp",
